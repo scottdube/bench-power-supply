@@ -1,0 +1,7 @@
+{
+  "board": {"design_settings": {}},
+  "meta": {"filename": "bench_psu.kicad_pro", "version": 1},
+  "schematic": {},
+  "sheets": [["130c1902-6fd5-4aad-a090-92737a41885f", ""]],
+  "libraries": {"pinned_footprint_libs": [], "pinned_symbol_libs": []}
+}

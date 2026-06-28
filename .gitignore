@@ -1,0 +1,18 @@
+# PlatformIO (firmware build output)
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# KiCad cruft / locks / caches
+*-backups/
+fp-info-cache
+*.kicad_prl
+*.lck
+~*.lck
+
+# Editors
+.vscode/
+.history/
+
+# OS
+.DS_Store
